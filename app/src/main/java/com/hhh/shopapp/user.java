@@ -1,8 +1,6 @@
 package com.hhh.shopapp;
 
-/**
- * 用户类 存储用户账号密码用作登录注册
- */
+
 
 public class user {
     String username;
